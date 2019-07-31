@@ -24,7 +24,7 @@ The web page requires to be inicialized with npm in order to dowload the package
 
     npm install
 
-After the proper instalation, the page can be started with the following command in order to run o a localhost:
+After the proper instalation, the page can be started with the following command in order to run on a localhost:
 
     npm run start
 
