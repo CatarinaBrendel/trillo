@@ -1,6 +1,6 @@
 ## Natours
 
-This is a small one page website for a fictional all-in-one booking application. The project was created as a studying enviroment from Udemy's course: Advanced CSS Course Master by Jonas Schmedtmann (https://codingheroes.io). In its context it uses for styling only the concepts of Flexbox. 
+This is a small one page website for a fictional all-in-one booking application. The project was created as a studying enviroment from Udemy's course: Advanced CSS Course Master by Jonas Schmedtmann (https://codingheroes.io). The goal was to apply the learned concepts of Flexbox in a development of a webpage similar to a real-world setup.
 
 ---
 
