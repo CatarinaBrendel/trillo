@@ -32,7 +32,7 @@ After the proper instalation, the page can be started with the following command
 
 ## Disclaimer 
 
-The design is entirely the owner's right, I have in any form altered nor claim to be mine.
+The design is entirely the owner's right, I have in any form altered nor claim it to be mine.
 
 I hold no responsability once you run the code in your computer and not produce the desired result.
 
